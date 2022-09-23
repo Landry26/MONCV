@@ -1,0 +1,51 @@
+{
+    "Profile":{
+        "avatar": "images/profil.jpg",
+        "name":"Landry PANGU",
+        "email":"Landpangu21@gmail.com",
+        "role":"Junior developper",
+        "description":"je suis developpeur junior issu de letecode academy",
+        "phone":"+243810098323",
+        "github":"https://github.com/Landry26/MonCV"
+    },
+
+    "competences":[
+        {
+            "name":"HTML",
+            "description":"Concevoir et organiser mes pages webs",
+            "progress":"55%"
+        },
+        {
+            "name":"CSS",
+            "description":"Embéllir et décorer mes pages webw",
+            "progress":"40%"
+        },
+        {
+            "name":"Github",
+            "description":"Gérer les différentes versions de mes applications",
+            "progress":"35%"
+        },
+        {
+            "name":"Visaual basic .net",
+            "description":"Concevoir des applications desktops",
+            "progress":"50%"
+        }
+    ],
+    "langues":[
+        {
+            "name":"Lingala",
+            "flag":"images/Drc-flag.png",
+            "alt":"drapeau congolais"
+        },
+        {
+            "name":"Français",
+            "flag":"images/fr-flag.jpg",
+            "alt":"drapeau français"
+        },
+        {
+            "name":"Anglais",
+            "flag":"images/us-flag.png",
+            "alt":"drapeau américain"
+        }
+    ]
+}
