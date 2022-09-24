@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+    margin:0 ;
+}
+
+body{
+    border: 2cm;
+    background-color:#fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    margin: 125px;
+    padding: 0px;
+}
+
+.profile{
+    margin: 5px;
+    padding-left: 20px;
+}
+
+.profile .pict-name{
+    margin-bottom: 5px;
+    padding-left: 35px;
+}
+
+.pict-name .element-float{
+    float: left;
+    padding-left: 15px;
+}
+
+.pict-name .element-float img{
+    border-radius: 70px;
+    border: none;
+}
+
+.pict-name .myname{
+    margin-left: 275px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+    padding-top: 45px;
+    font: 55px;
+    font-weight: 100;
+}
+
+.profile .mail{
+    padding-top: 2px;
+    padding-bottom: 90px;
+    padding-left: 15px;
+}
+
+.mail a{
+    text-decoration: none;
+    color: #000;
+    font-size: 18px medium;
+    font: 25em;
+    padding-left: 85px;
+} 
+
+.mail span{
+    background-color: #0000ff;
+    height: 5.5em;
+    width: 5em;
+    border-radius: 5px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.mail span label{
+    color: #fff;
+    font: 1.5em bold;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+.profile .presentation{
+    margin-left: 60px;
+    margin-bottom: 14px;
+}
+
+.presentation ul{
+    padding-left: 2px;
+}
+
+.profile .contact-link{
+    margin-top: 6px;
+    margin-bottom: 10px;
+}
+
+.contact-link a{
+    text-decoration: underline;
+    font-size: 1.5rem;
+    color: #0000ff;
+}
+
+.contact-link .phone-number{
+    margin-right: 275px;
+    padding-left: 25px;
+}
+
+.contact-link .github-link{
+    margin-left: 275px;
+}
