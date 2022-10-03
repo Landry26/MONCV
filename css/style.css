@@ -283,15 +283,12 @@ form button{
 
 .reference .authenticity{
     float: left;
-    padding-left: 750px;
+    padding-left: 740px;
     flex-direction: row;
     flex-wrap: wrap;
 }
 
-.authenticity span{
-    display: inline-block;
-}
-
-.authenticity span a{
-    padding-left: 225px;
+.authenticity li{
+    list-style: none;
+    display: inline;
 }
